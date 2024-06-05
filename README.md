@@ -1,7 +1,7 @@
 # PredictiveAnalysisOfMushroomClassificationUsingMachineLearning
 Predictive Analysis Of Mushroom Classification Using Machine Learning
 This dataset contain 23 columns and 8124 rows,in which our target column name is class.
-<font style="colour:green">Information about the features: (classes: edible=e, poisonous=p)</font>
+<font colour="green">Information about the features: (classes: edible=e, poisonous=p)</font>
 cap-shape: bell=b,conical=c,convex=x,flat=f, knobbed=k,sunken=s
 cap-surface: fibrous=f,grooves=g,scaly=y,smooth=s
 cap-color: brown=n,buff=b,cinnamon=c,gray=g,green=r,pink=p,purple=u,red=e,white=w,yellow=y
