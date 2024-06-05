@@ -1,6 +1,11 @@
 # PredictiveAnalysisOfMushroomClassificationUsingMachineLearning
 Predictive Analysis Of Mushroom Classification Using Machine Learning
 
+Here i have applied DecisionTreeClassification and KNN algorithm and the accuracy of these models are 100%.
+
+The features are categorical(nominal) that is why i used One Hot Encoding.
+
+For target column(class) used Label Encoding.
 
 This dataset contain 23 columns and 8124 rows,in which our target column name is class.
 
