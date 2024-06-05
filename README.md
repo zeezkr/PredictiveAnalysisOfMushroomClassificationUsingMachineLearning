@@ -7,6 +7,8 @@ The features are categorical(nominal) that is why i used One Hot Encoding.
 
 For target column(class) used Label Encoding.
 
+About Dataset:
+
 This dataset contain 23 columns and 8124 rows,in which our target column name is class.
 
 <font colour="green">Information about the features: (classes: edible=e, poisonous=p)</font>
