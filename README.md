@@ -1,4 +1,13 @@
 # PredictiveAnalysisOfMushroomClassificationUsingMachineLearning
+
+Mushrooms come in a variety of shapes and sizes,my aim is to classify whether mushrooms are poisonous or edible .
+
+About Dataset
+
+The dataset contain categorical features.
+
+This dataset contain 23 columns and 8124 rows,in which our target column name is class.
+
 steps:
 Data preprocessing:
 
@@ -18,11 +27,6 @@ Model evaluation:
 
               Classification report
 
-About Dataset:
-
-The dataset contain categorical features.
-
-This dataset contain 23 columns and 8124 rows,in which our target column name is class.
 
 <font colour="green">Information about the features: (classes: edible=e, poisonous=p)</font>
 
