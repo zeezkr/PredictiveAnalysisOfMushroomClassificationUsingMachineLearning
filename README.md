@@ -1,13 +1,26 @@
 # PredictiveAnalysisOfMushroomClassificationUsingMachineLearning
 steps:
-Data 
-Here i have applied DecisionTreeClassification and KNN algorithm and the accuracy of these models are 100%.
+Data preprocessing:
 
-The features are categorical(nominal) that is why i used One Hot Encoding.
+             Apply One Hot Encoding on all independent features.
+             
+             Apply Label Encoding on target feature.
+             
+Model selection and Training:
 
-For target column(class) used Label Encoding.
+              K-Nearest Neighbors(KNN)
+
+              DecisionTreeClassification
+              
+Model evaluation:
+
+              Confusion matrix
+
+              Classification report
 
 About Dataset:
+
+The dataset contain categorical features.
 
 This dataset contain 23 columns and 8124 rows,in which our target column name is class.
 
